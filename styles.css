@@ -85,12 +85,12 @@ a:hover {
     padding: 100px 0 150px 0;
 }
 .btn {
-    background: #11CDD4;
-    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+    background: #9dbfc0;
+    background-image: -webkit-linear-gradient(top, #9dbfc0, #324546);
+    background-image: -moz-linear-gradient(top, #9dbfc0, #324546);
+    background-image: -ms-linear-gradient(top, #9dbfc0, #324546);
+    background-image: -o-linear-gradient(top, #9dbfc0, #324546);
+    background-image: -webkit-gradient(to bottom, #9dbfc0, #324546);
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
@@ -115,7 +115,7 @@ a:hover {
  
  .btn:hover {
     border: solid #337FED 1px;
-    background: #30E3CB;
+    background: #98a7a5;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
